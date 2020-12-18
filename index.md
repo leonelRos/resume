@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## LEONEL ROSALES    	
+Los Angeles, CA
+(202)-500-0477
+Rleonel426@gmail.com
 
-You can use the [editor on GitHub](https://github.com/leonelRos/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LinkedIn: linkedin.com/in/leonelrosales/ || GitHub: github.com/leonelRos || Portfolio: www.leonelrosales.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### LANGUAGES AND TECHNOLOGIES
 
-### Markdown
+#### Proficient: JavaScript, Django, Nodejs, Express, Bootstrap, Sass, EJS, React, Redux, Angular, MongoDB, PostgreSQL, MySQL, MERN, MEAN, GIT, GitHub, Heroku, DOCKER, OOP, HTML5, CSS3, API, Netlify.
+#### Exposure: Python3, GraphQL, Typescript, GastbyJs, AWS.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PROFESSIONAL EXPERIENCE
 
-```markdown
-Syntax highlighted code block
+#### Hack for LA | Web Developer | Los Angeles, CA			                               DEC 2019 - PRESENT
 
-# Header 1
-## Header 2
-### Header 3
+- Showcased 100% of our non-technical contributors to our page using JavaScript, Promises, and GitHub API.
+- Optimized “Contact Us” form by implementing 3 different methods of contact using JavaScript Async/Await, and Action Network API.
+- Improved SEO score by 50% for the website using JavaScript, Jekyll, and SASS/SCSS.
+- Created Events landing page using JavaScript, Docker, Jekyll and, GitHub API to show members our events hosted in our 3 locations.
+- Reviewed others code before merging pull requests and mentored new volunteers.
 
-- Bulleted
-- List
+#### ETHKly | Software Developer | Santa Monica, CA		                                 OCT 2019 – JAN 2020
 
-1. Numbered
-2. List
+-	Executed E-commerce application alongside designers and QA’s using Python/Django/Shopify API.
+-	Managed final product testing, refactoring, and competency of circle through JSON to display product.
 
-**Bold** and _Italic_ and `Code` text
+#### Marriott International, Inc | Marketing Associate| Bethesda, MD                               JUNE 2015 – NOV 2018
 
-[Link](url) and ![Image](src)
-```
+-	Collaborated on a five-month project which included researching and pitching the new Marriott headquarter location to upper-level management (the project was approved in Q4 of 2016).
+-	Enhanced multiple marketing strategies and products, which led to revenue growth of 15% in Q3.
+-	Improved data management and processes, which led to a 30% increase in client targeting success rate.
+-	Converted complex data and findings into readable tables, graphs, and written reports for management.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### EDUCATION
 
-### Jekyll Themes
+#### Software Engineer, General Assembly 				                         	 JUN 2019 - NOV 2019
+#### BA in Business Management, University of Maryland Baltimore County     		AUG 2011 – MAY 2015
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leonelRos/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PROJECT WORK
 
-### Support or Contact
+#### Expense Tracker | Software Developer 							                      2019
+ Allows the user to keep track of each expense with a simple built in feature that track and save expenses.
+-	Delivered MERN stack application with self-contained, reusable, and testable components.
+-	Architected frontend visualizations using Redux.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Superheroes | Software Engineer 							                            2019
+Web app tool for comic fanatics, AAU you can see more than 2000 superheroes or create your own hero.
+-	Facilitated scrum agile development methodology by leading standups and managing the workflow. 
+-	Implemented third party API in order to aggregate the latest Superheroes trend.
+
+#### Cocktails DB | Software Developer  							                        2020
+Full Stack application to create and search for cocktails that user enjoys.
+-	Built with RESTful API to create and manipulate data using Nodejs and MongoDB database.
+-	Engineered the build process for production with Mocha and Postman for API.
+
+
