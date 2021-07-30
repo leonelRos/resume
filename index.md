@@ -12,6 +12,12 @@ LinkedIn: linkedin.com/in/leonelrosales/ || GitHub: github.com/leonelRos || Port
 
 ### PROFESSIONAL EXPERIENCE
 
+#### KettleSpace | Software Developer | Remote - NYC.                             DEC 2020 - PRESENT
+
+- Compile and analyze data, processes, codes to troubleshoot problems and identify areas for improvement.
+- Manage Responsive Web Design, applying best practices, and leveraging web development applications.
+- Experience in implementing Component life cycle methods, store actions, using React-Redux app to handle real-time data, installing React Router, Thunk Redux     for API calls in React.
+
 #### Hack for LA | Web Developer | Los Angeles, CA			                               DEC 2019 - PRESENT
 
 - Showcased 100% of our non-technical contributors to our page using JavaScript, Promises, and GitHub API.
